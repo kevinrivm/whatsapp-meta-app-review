@@ -1,0 +1,4 @@
+interface:
+  display_name: "WhatsApp App Review"
+  short_description: "Approve Meta WhatsApp SaaS permissions"
+  default_prompt: "Use $whatsapp-meta-app-review to prepare a WhatsApp SaaS for Meta App Review approval."
